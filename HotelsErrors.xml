@@ -3,7 +3,7 @@
     xmlns="http://venus.sod.asu.edu/WSRepository/xml"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml https://ajhern60.github.io/CSE445-Assignment4/Hotels.xsd">
-    
+
     <!-- Example from assignment -->
     <Hotel Rating="4.2">
         <Name>Westin</Name>
@@ -11,7 +11,7 @@
         <Phone>800-937-8461</Phone>
         <Address NearestAirport="Sky Harbor">
             <Number>11</Number>
-            <Street>E. 7th St</Street>
+            <Street>E.7th St</Street>
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85281</Zip>
@@ -151,4 +151,3 @@
         </Address>
     </Hotel>
 </Hotel>
-
