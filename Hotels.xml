@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+    <!-- Example from assignment -->
+    <Hotel Rating="4.2">
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <Address NearestAirport="Sky Harbor International Airport">
+            <Number>11</Number>
+            <Street>E 7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 1: Hilton Garden Inn Phoenix Downtown -->
+    <Hotel>
+        <Name>Hilton Garden Inn Phoenix Downtown</Name>
+        <Phone>602-343-0006</Phone>
+        <Address NearestAirport="Sky Harbor International Airport">
+            <Number>15</Number>
+            <Street>E Monroe St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85004</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 2: The Westin Bonaventure Hotel & Suites -->
+    <Hotel Rating="4.3">
+        <Name>The Westin Bonaventure Hotel and Suites</Name>
+        <Phone>213-624-1000</Phone>
+        <Address NearestAirport="Los Angeles International Airport">
+            <Number>404</Number>
+            <Street>S Figueroa St</Street>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Zip>90071</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 3: New York Marriott Marquis -->
+    <Hotel Rating="4.4">
+        <Name>New York Marriott Marquis</Name>
+        <Phone>212-398-1900</Phone>
+        <Phone>800-228-9290</Phone>
+        <Address NearestAirport="LaGuardia Airport">
+            <Number>1535</Number>
+            <Street>Broadway</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10036</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 4: Hyatt Regency O'Hare -->
+    <Hotel>
+        <Name>Hyatt Regency O'Hare</Name>
+        <Phone>847-696-1234</Phone>
+        <Phone>800-233-1234</Phone>
+        <Address NearestAirport="O'Hare International Airport">
+            <Number>9300</Number>
+            <Street>Bryn Mawr Ave</Street>
+            <City>Rosemont</City>
+            <State>IL</State>
+            <Zip>60018</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 5: Hilton San Francisco Union Square -->
+    <Hotel Rating="4.2">
+        <Name>Hilton San Francisco Union Square</Name>
+        <Phone>415-771-1400</Phone>
+        <Address NearestAirport="San Francisco International Airport">
+            <Number>333</Number>
+            <Street>O'Farrell St</Street>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <Zip>94102</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 6: Sheraton Grand Seattle -->
+    <Hotel Rating="4.3">
+        <Name>Sheraton Grand Seattle</Name>
+        <Phone>206-621-9000</Phone>
+        <Phone>888-627-7056</Phone>
+        <Address NearestAirport="Seattle-Tacoma International Airport">
+            <Number>1400</Number>
+            <Street>6th Ave</Street>
+            <City>Seattle</City>
+            <State>WA</State>
+            <Zip>98101</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 7: Omni Dallas Hotel -->
+    <Hotel>
+        <Name>Omni Dallas Hotel</Name>
+        <Phone>214-744-6664</Phone>
+        <Address NearestAirport="Dallas Love Field">
+            <Number>555</Number>
+            <Street>South Lamar St</Street>
+            <City>Dallas</City>
+            <State>TX</State>
+            <Zip>75202</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 8: JW Marriott Marquis Miami -->
+    <Hotel>
+        <Name>JW Marriott Marquis Miami</Name>
+        <Phone>305-421-8600</Phone>
+        <Phone>888-717-8850</Phone>
+        <Address NearestAirport="Miami International Airport">
+            <Number>255</Number>
+            <Street>Biscayne Boulevard Way</Street>
+            <City>Miami</City>
+            <State>FL</State>
+            <Zip>33131</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 9: The Broadmoor -->
+    <Hotel Rating="4.7">
+        <Name>The Broadmoor</Name>
+        <Phone>855-634-7711</Phone>
+        <Address NearestAirport="Colorado Springs Airport">
+            <Number>1</Number>
+            <Street>Lake Ave</Street>
+            <City>Colorado Springs</City>
+            <State>CO</State>
+            <Zip>80906</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 10: Willard InterContinental Washington -->
+    <Hotel Rating="4.6">
+        <Name>Willard InterContinental Washington</Name>
+        <Phone>202-628-9100</Phone>
+        <Phone>888-233-9450</Phone>
+        <Address NearestAirport="Ronald Reagan National Airport">
+            <Number>1401</Number>
+            <Street>Pennsylvania Ave NW</Street>
+            <City>Washington</City>
+            <State>DC</State>
+            <Zip>20004</Zip>
+        </Address>
+    </Hotel>
+</Hotels>
